@@ -1,5 +1,5 @@
 # ℹ About Me:
-🔭 I’m currently working and collaborate on traslating Rust Book in Italian<br>🌱 I’m currently learning Java, HTML, JavaScript, CSS<br>🤝 I’m looking for help with Rust, C++ <br /> <br />
+🔭 I’m currently working and collaborating on traslating Rust Book in Italian<br>🌱 I’m currently learning Java, HTML, JavaScript, CSS<br>🤝 I’m looking for help with Rust, C++ <br /> <br />
 [![](https://visitcount.itsvg.in/api?id=Lvcaa&icon=5&color=12)](https://visitcount.itsvg.in)
 
 
