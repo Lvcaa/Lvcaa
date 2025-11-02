@@ -1,75 +1,97 @@
-# Hi, I'm Luca Galli
+<!-- --- HEADER --- -->
+<h1 align="center">👋 Hi, I'm <span style="color:#a855f7;">Luca Galli</span></h1>
 
-- **B.Sc. Computer Science Student @ University of Trento** <br>
-- **Research Assistant @ Fondazione Bruno Kessler (NILab)** — Developing deep learning pipelines for brain MRI analysis and automated health prediction.  
+<p align="center">
+🎓 <b>B.Sc. Computer Science @ University of Trento</b><br>
+🔬 <b>Research Assistant @ Fondazione Bruno Kessler (NILab)</b><br>
+<sub>Exploring AI, neuroinformatics, and data-driven neuroscience.</sub>
+</p>
 
-I’m passionate about **artificial intelligence**, **software engineering**, and **web design** — driven by the goal of connecting people and ideas through technology and innovation.  
-My research focuses on **neuroimaging data processing** and **deep learning models** applied to cognitive and medical neuroscience.
+---
 
-📫 **Email:** lucagalli05@gmail.com  
+### 🧭 About Me
+I’m a **Computer Science student and AI researcher** passionate about building **intelligent systems** that bridge **neuroscience and machine learning**.  
+At **NILab (FBK)**, I develop **deep learning pipelines for brain MRI analysis**, automating data processing and supporting health-status prediction.  
+
+I’m driven by curiosity: from optimizing neural architectures to designing intuitive digital experiences.
+
+📫 [lucagalli05@gmail.com](mailto:lucagalli05@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/luca-galli-703776280) • [GitHub](https://github.com/Lvcaa)
 
 ---
 
-## Current Projects
-- **Co-founder @ Hack The Boot** — Leading UI/UX design and full-stack development for an international student hackathon.  
-- **OpenPlay** — A **sports gathering application** that helps users find and create local sporting events in their city.  
-  Focused on user-friendly event management and seamless community interaction through a responsive web interface.
+## 🚀 Current Work
+
+- **🧠 NILab @ FBK** — Building data pipelines and neural models for large-scale **neuroimaging analysis**.  
+- **🎨 Hack The Boot** — Co-founding a student hackathon; leading **UI/UX design** and **full-stack development** (React, Tailwind).  
+- **⚙️ OpenPlay** — Developing a **sports event app** focused on community interaction and responsive UX.
 
 ---
 
-## Learning Focus
-- Strengthening expertise in **Python** and **Web Development** (HTML, CSS/Tailwind, JavaScript/React).  
-- Expanding knowledge in **Machine Learning** and **Neural Networks** using **PyTorch** and **TensorFlow**.
+## 💻 Tech Stack
 
----
-
-## Technical Skills
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Back-End
+</td>
+<td align="center" width="50%">
+
+### Back-End & AI
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Project
-
-### [Interactive Simulation of Causal Function Brain Network with DES](https://academic.oup.com/brain/article/147/3/1100/7458468?login=false)
-- Enhanced and extended Python code for functional brain network simulations using DES.  
-- Presented the project at **Focus Live 2024** in Milan, showcasing advances in computational neuroscience.
-
----
-
-## Beyond Code
-Outside of research and software development, I enjoy **volleyball**, **basketball**, and exploring how **AI can enhance human potential**.  
-I’m deeply interested in **cognitive neuroscience**, **global collaboration**, and creating **intuitive, human-centered digital experiences**.
+## 🧠 Research Highlight
+### [Interactive Simulation of Causal Functional Brain Networks with DES](https://academic.oup.com/brain/article/147/3/1100/7458468?login=false)
+Enhanced and extended **Python code** for modeling causal brain networks through **Discrete Event Simulation**.  
+Presented at **Focus Live 2024 (Milan)**, showcasing advances in computational neuroscience and AI-driven connectivity analysis.
 
 ---
 
-## Socials
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LvcaaWasTaken)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20666092)
+## 🌍 Beyond Code
+Outside of research, I love **volleyball**, **basketball**, and exploring how **AI can enhance human creativity and cognition**.  
+I believe the best technology is both **intelligent and human-centered**.
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Lvcaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lvcaa&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvcaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/luca-galli-703776280"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://github.com/Lvcaa"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/20666092"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Lvcaa&icon=5&color=12)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lvcaa&theme=midnight-purple&hide_border=false&count_private=false" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvcaa&theme=midnight-purple&hide_border=false" height="150px" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lvcaa&theme=midnight-purple&hide_border=false&layout=compact" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lvcaa&label=Profile%20Views&color=6A0DAD&style=for-the-badge" alt="Profile views"/>
+</p>
