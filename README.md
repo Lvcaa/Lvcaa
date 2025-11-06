@@ -60,7 +60,7 @@ I’m driven by curiosity: from optimizing neural architectures to designing int
 
 ## 🧠 Research Highlight
 ### [Interactive Simulation of Causal Functional Brain Networks with DES](https://academic.oup.com/brain/article/147/3/1100/7458468?login=false)
-Enhanced and extended **Python code** for modeling causal brain networks through **Discrete Event Simulation**.  
+Enhanced and extended **Python code** for modeling causal brain networks through **Direct Electrical Stimulation**.  
 Presented at **Focus Live 2024 (Milan)**, showcasing advances in computational neuroscience and AI-driven connectivity analysis.
 
 ---
@@ -74,7 +74,7 @@ I believe the best technology is both **intelligent and human-centered**.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luca-galli-703776280"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lucaagalli"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://github.com/Lvcaa"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/20666092"><img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
