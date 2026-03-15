@@ -4,7 +4,7 @@
 <p align="center">
 🎓 <b>B.Sc. Computer Science @ University of Trento</b><br>
 🔬 <b>Research Assistant @ Fondazione Bruno Kessler (NILab)</b><br>
-<sub>Exploring AI, neuroinformatics, and data-driven neuroscience.</sub>
+<sub><sub>Exploring AI, data-driven systems, and neuroinformatics.</sub>
 </p>
 
 ---
@@ -24,7 +24,7 @@ I’m driven by curiosity: from optimizing neural architectures to designing int
 
 - **🧠 NILab @ FBK** — Building data pipelines and neural models for large-scale **neuroimaging analysis**.  
 - **🎨 Hack The Boot** — Co-founding a student hackathon; leading **UI/UX design** and **full-stack development** (React, Tailwind).  
-- **⚙️ OpenPlay** — Developing a **sports event app** focused on community interaction and responsive UX.
+- **🥗 NutriML** — Building an ML-powered personalized nutrition system using NHANES data, LightGBM models, and a FastAPI + React stack.
 
 ---
 
