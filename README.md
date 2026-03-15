@@ -10,8 +10,7 @@
 ---
 
 ### 🧭 About Me
-I’m a **Computer Science student and research assitant** passionate about building **intelligent systems** that bridge **neuroscience and machine learning**.  
-At **NILab (FBK)**, I develop **deep learning pipelines for brain MRI analysis**, automating data processing and supporting health-status prediction.  
+I am a **Computer Science student** and **research assistant** passionate about building **intelligent, data-driven systems** across **AI, machine learning, and neuroinformatics**. At **NILab (FBK)**, I develop **deep learning pipelines for brain MRI analysis**, automating data processing and supporting **neuroinformatics research**.
 
 I’m driven by curiosity: from optimizing neural architectures to designing intuitive digital experiences.
 
